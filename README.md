@@ -75,7 +75,7 @@ I use GitHub as a place to document my learning journey, showcase technical proj
 
 ## 📌 Featured Projects
 
-### AutoStack
+### [AutoStack](https://github.com/CamiloCod3/AutoStack)
 
 Automated server deployment project using **Terraform, Docker, Cloudflare, DigitalOcean, Bash, and Linux**.
 
@@ -93,7 +93,7 @@ This project focuses on infrastructure automation, server provisioning, DNS conf
 
 ---
 
-### Secure Login Admin API
+### [Secure Login Admin API](https://github.com/CamiloCod3/Secure-Login-Admin-API)
 
 A backend security learning project built with **FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT, OAuth2 concepts, and Docker**.
 
