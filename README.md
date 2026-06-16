@@ -1,4 +1,16 @@
-# Hi, I'm Camilo 👋
+<div align="center">
+
+# Hi, I'm Camilo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+**Linux • Systems Administration • Networking • Cybersecurity • Backend APIs**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/camilo-q-325a152a2)
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cyber Banner" width="100%" />
+
+</div>
+
+---
 
 I'm an aspiring **Linux / Systems Administration / Cybersecurity professional** based in Sweden.
 
