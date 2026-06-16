@@ -130,6 +130,48 @@ The goal of this project is to explore secure authentication, admin-controlled u
 
 ---
 
+## 🔨 Currently Building
+
+### [ActiveRecon](https://github.com/CamiloCod3/ActiveRecon)
+
+A Python-based reconnaissance CLI tool for authorized security assessments and lab environments.
+
+ActiveRecon automates parts of the early recon process by combining **Nmap scanning, DNS analysis, HTTP service detection, header collection, and Markdown reporting** into a structured workflow.
+
+The goal of this project is to build a practical security tool that helps organize reconnaissance results, document findings, and support learning around Linux, networking, service enumeration, and security assessment methodology.
+
+**Current features:**
+
+* Nmap scan profiles for fast, standard, full, and UDP scanning
+* DNS analysis for A, MX, and TXT records
+* HTTP service detection based on Nmap results
+* HTTP status and header collection
+* Markdown report generation
+* Modular Python project structure
+* CLI-based workflow for Linux environments
+
+**Skills demonstrated:**
+
+* Python CLI development
+* Linux-based security tooling
+* Nmap automation
+* DNS and HTTP analysis
+* Reconnaissance methodology
+* Report generation
+* Modular project structure
+* Security-focused scripting
+
+**Planned improvements:**
+
+* Security header analysis
+* JSON output support
+* Multi-target scanning
+* Target validation
+* Screenshot support for HTTP services
+* Bug bounty-oriented findings section
+* GitHub Actions for testing and code quality
+
+---
 ## 🧪 Lab & Learning Projects
 
 ### [Multi-Site Network Infrastructure Lab](https://github.com/CamiloCod3/multi-site-network-infrastructure-lab)
