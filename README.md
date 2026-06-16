@@ -194,19 +194,6 @@ The lab documents a realistic infrastructure design with separate management, co
 
 ---
 
-I’m currently building and documenting practical labs around:
-
-* Linux administration
-* Bash scripting
-* Networking fundamentals
-* DNS troubleshooting
-* Docker Compose deployments
-* Basic server hardening
-* API security
-* Vulnerability management
-* Security monitoring concepts
----
-
 ## 🧭 Career Direction
 
 My current path is focused on becoming strong in:
