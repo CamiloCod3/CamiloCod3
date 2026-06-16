@@ -93,6 +93,26 @@ This project focuses on infrastructure automation, server provisioning, DNS conf
 
 ---
 
+### [Multi-Tenant Webhook API](https://github.com/CamiloCod3/Multi-Tenant-Webhook-API)
+
+A production-style **FastAPI backend** for secure multi-tenant webhook ingestion, event tracking, message logging, operational metrics, PostgreSQL/Alembic persistence, Redis support, and Docker-based deployment.
+
+This project was cleaned and published as a portfolio-ready backend system with a fresh public history.
+
+**Skills demonstrated:**
+
+* FastAPI backend architecture
+* Multi-tenant API design
+* Secure webhook ingestion
+* HMAC and token-based authentication
+* PostgreSQL and Alembic migrations
+* Redis-backed infrastructure support
+* Prometheus-style metrics
+* Docker-based deployment thinking
+* Production-oriented backend structure
+
+---
+
 ### [Secure Login Admin API](https://github.com/CamiloCod3/Secure-Login-Admin-API)
 
 A backend security learning project built with **FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT, OAuth2 concepts, and Docker**.
