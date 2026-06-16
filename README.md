@@ -163,19 +163,6 @@ I’m currently building and documenting practical labs around:
 * API security
 * Vulnerability management
 * Security monitoring concepts
-
-Future lab repositories may include:
-
-```text
-linux-network-security-labs/
-├── linux-plus/
-├── network-plus/
-├── security-plus/
-├── bash-scripting/
-├── docker-labs/
-└── security-hardening/
-```
-
 ---
 
 ## 🧭 Career Direction
