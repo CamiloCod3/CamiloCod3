@@ -97,7 +97,6 @@ This project focuses on infrastructure automation, server provisioning, DNS conf
 
 A production-style **FastAPI backend** for secure multi-tenant webhook ingestion, event tracking, message logging, operational metrics, PostgreSQL/Alembic persistence, Redis support, and Docker-based deployment.
 
-This project was cleaned and published as a portfolio-ready backend system with a fresh public history.
 
 **Skills demonstrated:**
 
@@ -132,6 +131,26 @@ The goal of this project is to explore secure authentication, admin-controlled u
 ---
 
 ## 🧪 Lab & Learning Projects
+
+### [Multi-Site Network Infrastructure Lab](https://github.com/CamiloCod3/multi-site-network-infrastructure-lab)
+
+A practical networking lab simulating a multi-site company environment with Stockholm and Helsinki sites, segmented networks, pfSense firewalls, routing, NAT, Active Directory, DNS, DHCP, NTP, GPOs, and Windows/Linux machines.
+
+The lab documents a realistic infrastructure design with separate management, core, datacenter, office, WAN, and branch networks.
+
+**Skills demonstrated:**
+
+* Network design and subnetting
+* Multi-site routing
+* pfSense firewall and NAT configuration
+* Network segmentation
+* Windows Server administration
+* Active Directory, DNS, DHCP, and NTP
+* Group Policy Objects
+* Linux and Windows client integration
+* Infrastructure troubleshooting
+
+---
 
 I’m currently building and documenting practical labs around:
 
