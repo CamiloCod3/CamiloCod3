@@ -195,20 +195,8 @@ The lab documents a realistic infrastructure design with separate management, co
 
 ---
 
-## 🧭 Career Direction
-
-I’m building a strong foundation in Linux, networking, systems administration, and secure infrastructure — then moving deeper into cybersecurity through practical labs, projects, and certifications.
-
-```text
-Linux → Networking → Systems Administration → Security → Blue Team → Offensive Security → AI Security
-```
-
-My long-term goal is to work with cybersecurity, secure infrastructure, cloud security, and automation.
-
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Check+out+my+projects+below+%F0%9F%9A%80;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Check+out+my+projects+below+%F0%9F%91%87;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
 </div>
