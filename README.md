@@ -203,42 +203,26 @@ The lab documents a realistic infrastructure design with separate management, co
 
 ## 🧭 Career Direction
 
-My current path is focused on becoming strong in:
+I’m building a strong foundation in Linux, networking, systems administration, and secure infrastructure — then moving deeper into cybersecurity through practical labs, projects, and certifications.
 
 ```text
-Linux → Networking → Security → Blue Team → Offensive Security → AI Security
+Linux → Networking → Systems Administration → Security → Blue Team → Offensive Security → AI Security
 ```
 
-I’m building a strong foundation in system administration first, then moving deeper into cybersecurity with a practical, hands-on approach.
-
-My long-term goal is to work with cybersecurity, cloud security, secure infrastructure, and automation.
-
----
-
-## 📈 GitHub Goals
-
-I use GitHub to:
-
-* Document my technical growth
-* Build real-world projects
-* Practice clean project structure
-* Showcase hands-on labs
-* Improve my backend, Linux, DevOps, and security skills
-* Create a portfolio that reflects my certification and career path
+My long-term goal is to work with cybersecurity, secure infrastructure, cloud security, and automation.
 
 ---
 
 ## 🌍 About Me
 
 * Based in Sweden 🇸🇪
-* Interested in Linux, cybersecurity, automation, backend development, and cloud infrastructure
+* Interested in Linux, cybersecurity, automation, backend development, and infrastructure
 * I enjoy building practical projects that connect theory with real-world IT skills
-* Always learning, always improving
 
 ---
 
-## 📫 Connect
+<div align="center">
 
-You can find my projects here on GitHub as I continue building, documenting, and improving my skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Check+out+my+projects+below+%F0%9F%9A%80;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
-Thanks for visiting my profile 👋
+</div>
