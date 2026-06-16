@@ -136,30 +136,15 @@ The goal of this project is to explore secure authentication, admin-controlled u
 
 A Python-based reconnaissance CLI tool for authorized security assessments and lab environments.
 
-ActiveRecon automates parts of the early recon process by combining **Nmap scanning, DNS analysis, HTTP service detection, header collection, and Markdown reporting** into a structured workflow.
+ActiveRecon combines Nmap scan profiles, DNS analysis, HTTP service detection, header collection, and Markdown reporting into a structured workflow for learning and documenting early-stage reconnaissance.
 
-The goal of this project is to build a practical security tool that helps organize reconnaissance results, document findings, and support learning around Linux, networking, service enumeration, and security assessment methodology.
-
-**Current features:**
+**Highlights:**
 
 * Nmap scan profiles for fast, standard, full, and UDP scanning
 * DNS analysis for A, MX, and TXT records
-* HTTP service detection based on Nmap results
 * HTTP status and header collection
 * Markdown report generation
-* Modular Python project structure
-* CLI-based workflow for Linux environments
-
-**Skills demonstrated:**
-
-* Python CLI development
-* Linux-based security tooling
-* Nmap automation
-* DNS and HTTP analysis
-* Reconnaissance methodology
-* Report generation
-* Modular project structure
-* Security-focused scripting
+* Modular Python CLI structure
 
 **Planned improvements:**
 
@@ -192,6 +177,19 @@ The lab documents a realistic infrastructure design with separate management, co
 * Linux and Windows client integration
 * Infrastructure troubleshooting
 
+---
+
+I’m currently building and documenting practical labs around:
+
+* Linux administration
+* Bash scripting
+* Networking fundamentals
+* DNS troubleshooting
+* Docker Compose deployments
+* Basic server hardening
+* API security
+* Vulnerability management
+* Security monitoring concepts
 ---
 
 ## 🧭 Career Direction
