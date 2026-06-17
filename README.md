@@ -173,27 +173,6 @@ A practical networking lab simulating a multi-site company environment with Stoc
 * Windows Server, Active Directory, DNS, DHCP, NTP, and GPOs
 
 ---
-## 🧪 Lab & Learning Projects
-
-### [Multi-Site Network Infrastructure Lab](https://github.com/CamiloCod3/multi-site-network-infrastructure-lab)
-
-A practical networking lab simulating a multi-site company environment with Stockholm and Helsinki sites, segmented networks, pfSense firewalls, routing, NAT, Active Directory, DNS, DHCP, NTP, GPOs, and Windows/Linux machines.
-
-The lab documents a realistic infrastructure design with separate management, core, datacenter, office, WAN, and branch networks.
-
-**Skills demonstrated:**
-
-* Network design and subnetting
-* Multi-site routing
-* pfSense firewall and NAT configuration
-* Network segmentation
-* Windows Server administration
-* Active Directory, DNS, DHCP, and NTP
-* Group Policy Objects
-* Linux and Windows client integration
-* Infrastructure troubleshooting
-
----
 
 <div align="center">
 
