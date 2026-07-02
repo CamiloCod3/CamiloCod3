@@ -68,40 +68,46 @@ DigitalOcean, Cloudflare, Git, GitHub Actions, Prometheus
 
 ### [Multi-Tenant Webhook API](https://github.com/CamiloCod3/Multi-Tenant-Webhook-API)
 
-A FastAPI backend project focused on secure webhook ingestion, multi-tenant API design, event tracking, message logging, PostgreSQL persistence, Redis support, and Docker-based deployment.
+Many applications need to receive webhook events from external systems, but handling them securely across multiple tenants requires clear separation, validation, logging, and reliable event tracking.
+
+This project explores how to build a FastAPI backend for multi-tenant webhook ingestion with tenant-aware routing, event logging, operational metrics, PostgreSQL persistence, Redis support, and Docker-based deployment.
 
 **Focus areas**
 
-* FastAPI backend architecture
-* Multi-tenant API design
-* Webhook security and event logging
-* PostgreSQL, Redis, Docker, Alembic
+* Multi-tenant backend architecture
+* Secure webhook ingestion
+* Event tracking and message logging
+* PostgreSQL, Redis, Prometheus, Docker, and Alembic
 
 ---
 
 ### [AutoStack](https://github.com/CamiloCod3/AutoStack)
 
-An infrastructure automation project using Terraform, Docker, Cloudflare, DigitalOcean, Bash, and Linux.
+Manually setting up cloud servers, DNS, Docker deployments, and basic infrastructure can quickly become repetitive and error-prone.
+
+AutoStack explores how to automate that process using Terraform, Bash, Docker, Cloudflare, DigitalOcean, and Linux. The goal is to make server provisioning and deployment more repeatable, documented, and easier to rebuild.
 
 **Focus areas**
 
-* Infrastructure as Code
+* Infrastructure as Code with Terraform
 * Linux server automation
-* Docker deployment
-* DNS and cloud infrastructure setup
+* Docker-based deployment
+* Cloudflare DNS and DigitalOcean infrastructure
 
 ---
 
 ### [Secure Login Admin API](https://github.com/CamiloCod3/Secure-Login-Admin-API)
 
-A backend security learning project focused on authentication, authorization, admin-controlled user creation, JWT-based login flows, and API structure.
+Authentication and authorization are easy to underestimate, especially when building APIs that need clear user roles, protected routes, and controlled account creation.
+
+This project explores secure API authentication patterns using FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT, OAuth2 concepts, and Docker. It focuses on admin-controlled user creation, login flows, authorization, and backend security fundamentals.
 
 **Focus areas**
 
-* Secure API authentication
-* JWT and OAuth2 concepts
-* PostgreSQL and SQLAlchemy
-* Dockerized backend development
+* Secure API authentication and authorization
+* JWT-based login flows
+* Admin-controlled user creation
+* PostgreSQL, SQLAlchemy, Pydantic, and Docker
 
 ---
 
@@ -109,9 +115,9 @@ A backend security learning project focused on authentication, authorization, ad
 
 ### [ActiveRecon](https://github.com/CamiloCod3/ActiveRecon)
 
-A Python-based reconnaissance CLI tool for authorized security assessments, lab environments, and security learning.
+Reconnaissance can quickly become messy when scan results, HTTP findings, DNS data, and notes are spread across different tools and files.
 
-The project combines Nmap scan profiles, DNS analysis, HTTP service detection, header collection, TLS checks, and Markdown/JSON reporting into a structured reconnaissance workflow.
+ActiveRecon explores how to organize early-stage reconnaissance into a structured CLI workflow for authorized security assessments and lab environments. It combines Nmap scan profiles, DNS analysis, HTTP service detection, header collection, TLS checks, and Markdown/JSON reporting.
 
 **Focus areas**
 
@@ -125,11 +131,14 @@ The project combines Nmap scan profiles, DNS analysis, HTTP service detection, h
 
 ### [Multi-Site Network Infrastructure Lab](https://github.com/CamiloCod3/multi-site-network-infrastructure-lab)
 
-A networking lab simulating a multi-site company environment with segmented networks, pfSense firewalls, routing, NAT, Active Directory, DNS, DHCP, NTP, GPOs, and Windows/Linux machines.
+Understanding networking is easier when the environment behaves like a real organization instead of isolated theory.
+
+This lab simulates a multi-site company network with Stockholm and Helsinki sites, segmented networks, pfSense firewalls, routing, NAT, Active Directory, DNS, DHCP, NTP, GPOs, and Windows/Linux machines.
 
 **Focus areas**
 
 * Multi-site network design
+* Network segmentation
 * Routing, NAT, and firewall configuration
 * Windows Server and Active Directory
 * DNS, DHCP, NTP, and GPOs
