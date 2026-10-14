@@ -1,150 +1,142 @@
+
 <div align="center">
 
 # Hi, I'm Camilo 👋
 
-**Systems Administration • Networking • Infrastructure • Cybersecurity • Backend APIs**
+**Application Security • Python Development • Linux • Infrastructure • Ethical Hacking**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/camilo-q-325a152a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-f-325a152a2)
 
 </div>
 
----
+## About Me
 
-I'm building a practical foundation across systems administration, networking, infrastructure automation, backend APIs, and cybersecurity.
+Technology has been a personal interest of mine for as long as I can remember. I've spent years experimenting with computers, running Linux on most of my personal PCs and learning how systems work.
 
-I enjoy working close to how systems actually run: configuring services, understanding networks, building tools, automating workflows, troubleshooting problems, and learning how to secure infrastructure in real environments.
+I'm currently studying to become a Systems Specialist at Utbildning Nord in Sweden, with an expected graduation in February 2027.
 
-This GitHub is where I document hands-on projects, labs, and learning as I continue developing my skills.
+My main interest today is Application Security, particularly web application penetration testing, API security and understanding how vulnerabilities arise in real applications.
 
----
+I enjoy building software, exploring infrastructure, automating repetitive tasks and learning how to identify security weaknesses.
+
+This GitHub is where I share projects, technical experiments and things I've learned along the way.
 
 ## Current Focus
 
-* Systems administration
-* Networking and troubleshooting
-* Linux and Windows Server environments
-* Docker and infrastructure automation
-* Secure backend APIs
-* Cybersecurity fundamentals and practical labs
+- Web application security and OWASP Top 10
+- API security, authentication and access control
+- Hack The Box Academy Web Penetration Tester path
+- CompTIA PenTest+ exam preparation
+- Python development and security automation
+- Linux, networking and infrastructure security
 
----
+## Certifications & Training
 
-## Certifications
+### CompTIA Certifications
 
-**Completed**
+- ✅ CompTIA Security+ (2026)
+- ✅ CompTIA Linux+ (2026)
+- ✅ CompTIA Network+ (2026)
+- ✅ CompTIA Server+
+- ✅ CompTIA A+
 
-* CompTIA A+
-* CompTIA Server+
-* CompTIA Network+
-* CompTIA Linux+
+### Currently Studying
 
-**Next step**
+- CompTIA PenTest+
+- Hack The Box Academy: Web Penetration Tester
+- Web exploitation and practical penetration testing methodology
 
-* CompTIA Security+
+### Additional Training
 
----
+- TryHackMe Cyber Security 101
+- TryHackMe Junior Penetration Tester
 
-## Skills & Tools
+## Technical Skills
+
+**Security & Networking**
+
+HTTP, REST APIs, OWASP Top 10, Nmap, Wireshark, Kali Linux, TCP/IP, DNS, DHCP, VLANs, firewalls and network segmentation.
+
+**Programming & Backend**
+
+Python, Bash, FastAPI, PostgreSQL, SQLAlchemy, Redis, SQL, pytest and API development.
 
 **Systems & Infrastructure**
 
-Linux, Windows Server, Bash, Docker, Terraform, Hyper-V
+Linux, Windows Server, Docker, Proxmox VE, KVM, FortiGate, MikroTik, Active Directory and Ansible.
 
-**Networking & Security**
+**Development & Automation**
 
-TCP/IP, DNS, DHCP, routing, pfSense, Active Directory, Wireshark, Nmap, security fundamentals
+Git, Forgejo, GitHub Actions, Terraform, Cloudflare, DigitalOcean and infrastructure automation.
 
-**Backend & Development**
+## Practical Experience
 
-Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, REST APIs
+### ICEBREAKER | Network & Systems Test Facility
 
-**Cloud & DevOps**
+**Current Internship (LIA) | Utbildning Nord | 2026**
 
-DigitalOcean, Cloudflare, Git, GitHub Actions, Prometheus
+I'm currently completing my practical training in the ICEBREAKER project, where we're building an infrastructure and security testing environment.
 
----
+My work involves Proxmox virtualization, FortiGate firewalls, MikroTik switches, VLAN segmentation, network troubleshooting and Ansible-based configuration auditing.
+
+The project gives me practical experience working with interconnected systems and understanding how infrastructure design, access controls and network security work together.
 
 ## Featured Projects
 
 ### [Multi-Tenant Webhook API](https://github.com/CamiloCod3/Multi-Tenant-Webhook-API)
 
-Many applications need to receive webhook events from external systems, but handling them securely across multiple tenants requires clear separation, validation, logging, and reliable event tracking.
+A FastAPI backend project exploring secure webhook ingestion and multi-tenant application architecture.
 
-This project explores how to build a FastAPI backend for multi-tenant webhook ingestion with tenant-aware routing, event logging, operational metrics, PostgreSQL persistence, Redis support, and Docker-based deployment.
+The project involves HMAC signature verification, API authentication, event logging, PostgreSQL, Redis, Docker and operational monitoring.
 
-**Focus areas**
+Working on this project has helped me understand security-sensitive API components and the importance of building security into backend systems.
 
-* Multi-tenant backend architecture
-* Secure webhook ingestion
-* Event tracking and message logging
-* PostgreSQL, Redis, Prometheus, Docker, and Alembic
+**Tech:** Python, FastAPI, PostgreSQL, Redis, Docker, Prometheus
 
----
+### AutoStack | Ongoing Private Development
 
-### [AutoStack](https://github.com/CamiloCod3/AutoStack)
+AutoStack is an independent software and infrastructure automation project I'm actively developing in my self-hosted Forgejo environment.
 
-Manually setting up cloud servers, DNS, Docker deployments, and basic infrastructure can quickly become repetitive and error-prone.
+The current work explores automated deployments, software verification, automated testing, backup and recovery workflows.
 
-AutoStack explores how to automate that process using Terraform, Bash, Docker, Cloudflare, DigitalOcean, and Linux. The goal is to make server provisioning and deployment more repeatable, documented, and easier to rebuild.
+It has become one of my main personal engineering projects, helping me understand how application development, infrastructure and operational security connect.
 
-**Focus areas**
+An [earlier public AutoStack project](https://github.com/CamiloCod3/AutoStack) is also available on GitHub.
 
-* Infrastructure as Code with Terraform
-* Linux server automation
-* Docker-based deployment
-* Cloudflare DNS and DigitalOcean infrastructure
-
----
+**Tech:** Linux, Docker, Git, backend services, automated testing
 
 ### [Secure Login Admin API](https://github.com/CamiloCod3/Secure-Login-Admin-API)
 
-Authentication and authorization are easy to underestimate, especially when building APIs that need clear user roles, protected routes, and controlled account creation.
+A backend API project exploring authentication and authorization using JWT-based login, protected endpoints, role-based access concepts and admin-controlled user creation.
 
-This project explores secure API authentication patterns using FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT, OAuth2 concepts, and Docker. It focuses on admin-controlled user creation, login flows, authorization, and backend security fundamentals.
+The project focuses on understanding authentication flows and security-sensitive backend functionality.
 
-**Focus areas**
-
-* Secure API authentication and authorization
-* JWT-based login flows
-* Admin-controlled user creation
-* PostgreSQL, SQLAlchemy, Pydantic, and Docker
-
----
-
-## Security & Lab Projects
+**Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Docker
 
 ### [ActiveRecon](https://github.com/CamiloCod3/ActiveRecon)
 
-Reconnaissance can quickly become messy when scan results, HTTP findings, DNS data, and notes are spread across different tools and files.
+A Python command-line reconnaissance project designed for authorized security assessments and lab environments.
 
-ActiveRecon explores how to organize early-stage reconnaissance into a structured CLI workflow for authorized security assessments and lab environments. It combines Nmap scan profiles, DNS analysis, HTTP service detection, header collection, TLS checks, and Markdown/JSON reporting.
+It explores service enumeration, DNS and HTTP analysis, TLS checks and structured reporting to make reconnaissance more organized and repeatable.
 
-**Focus areas**
-
-* CLI-based security tooling
-* Service enumeration
-* DNS, HTTP, and TLS analysis
-* Markdown and JSON reporting
-* Responsible recon methodology
-
----
+**Tech:** Python, Nmap, DNS, HTTP, TLS, Markdown, JSON
 
 ### [Multi-Site Network Infrastructure Lab](https://github.com/CamiloCod3/multi-site-network-infrastructure-lab)
 
-Understanding networking is easier when the environment behaves like a real organization instead of isolated theory.
+A simulated multi-site company network connecting Stockholm and Helsinki environments.
 
-This lab simulates a multi-site company network with Stockholm and Helsinki sites, segmented networks, pfSense firewalls, routing, NAT, Active Directory, DNS, DHCP, NTP, GPOs, and Windows/Linux machines.
+The lab explores routing, network segmentation, firewall configuration, Windows Server, Active Directory, DNS, DHCP and Group Policy.
 
-**Focus areas**
+**Tech:** pfSense, Windows Server, Active Directory, Linux, TCP/IP
 
-* Multi-site network design
-* Network segmentation
-* Routing, NAT, and firewall configuration
-* Windows Server and Active Directory
-* DNS, DHCP, NTP, and GPOs
+## Learning by Building
 
----
+My long-term goal is to work professionally in Application Security and ethical hacking.
 
-## Learning by building
+I'm particularly interested in web application penetration testing, vulnerability research, secure application design and learning how to communicate security findings clearly.
 
-I use projects and labs to connect theory with practice, document what I learn, and keep improving step by step.
+I believe that understanding how systems are built and operated is an important foundation for understanding how they can be attacked and secured.
+
+For now, I'm focused on learning, building projects, practising in security labs and improving my skills one step at a time.
+
+**Always curious. Always learning.**
